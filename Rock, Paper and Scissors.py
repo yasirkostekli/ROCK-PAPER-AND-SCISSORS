@@ -3,7 +3,7 @@ import random
 rock = "ROCK"
 paper = "PAPER"
 scissors = "SCISSORS"
-options = ("ROCK", "PAPER", "SCISSORS")   # demet(tuple) olarak yazmışım. içeriği değiştirilemez!!!
+options = ("ROCK", "PAPER", "SCISSORS")
 result = 0
 while True:
     if result == 0:
